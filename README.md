@@ -1,0 +1,1 @@
+# gitlab-artifact-deletion
